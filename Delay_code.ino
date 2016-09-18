@@ -18,7 +18,7 @@
 //TG22 - Traffic Light 22(GREEN)
 
 
-//****---ROAD 3(R3)---************//
+//****---ROAD 3(R3)---*************//
 //TR31 - Traffic Light 31(RED)
 //TY31 - Traffic Light 31(AMBER
 //TG31 - Traffic Light 31(GREEN)
