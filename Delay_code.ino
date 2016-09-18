@@ -111,7 +111,7 @@ void Cond1()
    digitalWrite(TY22,LOW);
    digitalWrite(TG22,HIGH); 
 
-   digitalWrite(TR31,LOW);   //Road 3 Lane 1 -GO
+   digitalWrite(TR31,LOW);   //Road 3 Lane 1-GO
    digitalWrite(TY31,LOW);
    digitalWrite(TG31,HIGH); 
 
