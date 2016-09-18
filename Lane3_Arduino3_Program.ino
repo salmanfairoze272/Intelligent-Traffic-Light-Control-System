@@ -1,6 +1,6 @@
 /**********************************************
  *   This is the program written for Arduino  *
- *  uno 2, used on lane 2.                    *
+ *  uno 3, used on lane 3.                    *
  **********************************************/
 
 const int Lane3_Sensor1 = A0;               // output of IR Sensor 1 is fed to analog input 0
