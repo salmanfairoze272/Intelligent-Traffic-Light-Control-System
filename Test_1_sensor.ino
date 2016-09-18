@@ -1,9 +1,9 @@
-/*************************************************
+/**************************************************
  *  This program is written for controlling      * 
  *  of traffic lights, according to the vehicle  *
  *  density on each road, towards specific       *
  *  direction.                                   *
- *************************************************/
+ **************************************************/
 
 /* Assigning names to analog pins. They are going to be used as inputs. */
 const int R1_A1 = A0; 
