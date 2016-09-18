@@ -17,7 +17,7 @@ const int L3_Green = 41;
 const int L3_Orange = 42;
 const int L3_Red = 43;
 
-const float learning_const = 0.001;             // learning constant
+const float learning_const = 0.001;             //  learning constant
 float input_matrix[16][3] = {{10,  8,  5},      // matrix of the inputs to train the neural network
                              {12,  9,  6},
                              {14, 13, 10},
