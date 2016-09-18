@@ -4,7 +4,7 @@
  **********************************************/
 
 const int Lane3_Sensor1 = A0;               // output of IR Sensor 1 is fed to analog input 0
-const int Lane3_Sensor2 = A1;               // output of IR Sensor 2 is fed to analog input 1
+const int Lane3_Sensor2 = A1;               // output of IR Sensor 2 is fed to analog input 1 
 
 int Sensor1_Value, Sensor2_Value = 0;       // int variables to get sensor inputs
 unsigned long Sensor1_Time, Sensor2_Time;   // long variables to get the time in miliseconds, at when each sensor detected vehicles 
