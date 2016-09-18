@@ -9,7 +9,7 @@ const int Lane3_Sensor2 = A1;               // output of IR Sensor 2 is fed to a
 int Sensor1_Value, Sensor2_Value = 0;       // int variables to get sensor inputs
 unsigned long Sensor1_Time, Sensor2_Time;   // long variables to get the time in miliseconds, at when each sensor detected vehicles 
 int T3;                                     // float variable to pass the T1, which is an input of the NN, to main Mega board 
-int Incoming_Value = 0;                     // to read the signal sent by the main Mega board
+int Incoming_Value = 0;                     // to read the signal sent by the main Mega board 
 
 void setup() {
   Serial.begin(9600);
