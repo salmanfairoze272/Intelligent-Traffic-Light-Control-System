@@ -3,7 +3,7 @@
  *  uno 2, used on lane 2.                    *
  **********************************************/
 
-const int Lane2_Sensor1 = A0;               // output of IR Sensor 1 is fed to analog input 0 
+const int Lane2_Sensor1 = A0;               // output of IR Sensor 1 is fed to analog input 0  
 const int Lane2_Sensor2 = A1;               // output of IR Sensor 2 is fed to analog input 1
 
 int Sensor1_Value, Sensor2_Value = 0;       // int variables to get sensor inputs
