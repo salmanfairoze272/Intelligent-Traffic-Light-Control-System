@@ -1,4 +1,4 @@
-//****---ROAD 1(R1)---************//
+//****---ROAD 1(R1)---*************//
 //TR11 - Traffic Light 11(RED)
 //TY11 - Traffic Light 11(AMBER)
 //TG11 - Traffic Light 11(GREEN)
@@ -18,7 +18,7 @@
 //TG22 - Traffic Light 22(GREEN)
 
 
-//****---ROAD 3(R3)---************//
+//****---ROAD 3(R3)---*************//
 //TR31 - Traffic Light 31(RED)
 //TY31 - Traffic Light 31(AMBER
 //TG31 - Traffic Light 31(GREEN)
@@ -111,7 +111,7 @@ void Cond1()
    digitalWrite(TY22,LOW);
    digitalWrite(TG22,HIGH); 
 
-   digitalWrite(TR31,LOW);   //Road 3 Lane 1 -GO
+   digitalWrite(TR31,LOW);   //Road 3 Lane 1-GO
    digitalWrite(TY31,LOW);
    digitalWrite(TG31,HIGH); 
 
